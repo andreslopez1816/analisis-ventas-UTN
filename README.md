@@ -101,5 +101,7 @@ Ejemplos de commits realizados:
 
 ## Autor
 
+Carlos Andrés López
+
 Trabajo desarrollado para la materia Organización Empresarial  
 Tecnicatura Universitaria en Programación - UTN
